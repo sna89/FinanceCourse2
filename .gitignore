@@ -1,2 +1,7 @@
-*.ipynb
+Equity Data Quarterly Pre-Processing.ipynb
+Equity Data Daily Pre-Processing.ipynb
 *.csv
+*.tsv
+*.zip
+*.html
+*.xlsx
